@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\jiuyu\Desktop\shellcode loader\内联汇编加载器\内联汇编加载器\main.cpp(8,6): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码
+  1 of 1 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  内联汇编加载器.vcxproj -> C:\Users\jiuyu\Desktop\shellcode loader\内联汇编加载器\Release\内联汇编加载器.exe

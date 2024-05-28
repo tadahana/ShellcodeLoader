@@ -1,0 +1,7 @@
+﻿  堆加载器.cpp
+C:\Users\jiuyu\Desktop\shellcode loader\堆加载器\堆加载器\堆加载器.cpp(27,6): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  堆加载器.vcxproj -> C:\Users\jiuyu\Desktop\shellcode loader\堆加载器\x64\Release\堆加载器.exe
